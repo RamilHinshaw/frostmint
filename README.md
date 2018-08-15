@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center">A minty and sweet colorscheme for the eyes..</p>
+<p align="center">A minty and sweet colorscheme for the eyes.</p>
 
 <p align="center">A colorscheme that was created to give the user a refreshing experience with its carefully selected delectable colors. Has optimal readablitiy with beautiful code syntax highlighting which looks perfect on any terminal the user chooses. For those who likes vibrant-dimmed colors that are comfortable to look at for long periods, this is the right choice for you. </p>
 
