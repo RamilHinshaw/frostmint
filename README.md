@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/frostmint%20colors.png"/></p>
 
-
+## Example 
 <p align="center">Example in various popular programming/markup langauges</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/frostmist%20example.png"/></p>
@@ -25,7 +25,7 @@
     cd ~/.vim
     unzip frostmint.zip
 
-To install using pathogen.vim:
+To install using [Pathogen](https://github.com/tpope/vim-pathogen):
 
     cd ~/.vim/bundle
     git clone https://github.com/ramihinshaw/frostmint.git
