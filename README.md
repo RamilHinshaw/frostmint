@@ -62,3 +62,7 @@ or:
     syntax enable
     set background=dark
     colorscheme frostmint
+    
+---
+<p align="center">Copyright &copy; 2018-present Ramil Hinshaw</p>
+<p align="center">Source code under MIT & CC BY-SA 4.0 License, FrostMint Logo does not fall into this category</p>
