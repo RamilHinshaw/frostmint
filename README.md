@@ -11,9 +11,9 @@
 
 <p align="center">A minty and sweet colorscheme for the eyes..</p>
 
-<p align="center">A colorscheme that was created to give the user a refreshing experience with its carefully selected cold colors. Has optimal readablitiy with beautiful code syntax highlighting which looks perfect on any terminal the user chooses. For those who likes vibrant-dimmed colors that are comfortable to look at for long periods, this is the right choice for you. </p>
+<p align="center">A colorscheme that was created to give the user a refreshing experience with its carefully selected delectable colors. Has optimal readablitiy with beautiful code syntax highlighting which looks perfect on any terminal the user chooses. For those who likes vibrant-dimmed colors that are comfortable to look at for long periods, this is the right choice for you. </p>
 
-<p align="center">Consisted with these beautiful cold colors</p>
+<p align="center">Consisted with these beautiful minty colors</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/frostmint%20colors.png"/></p>
 
