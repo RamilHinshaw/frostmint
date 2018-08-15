@@ -5,7 +5,7 @@
   
   <a href="https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-5E81AC.svg?style=flat-square"/></a>
   
-  <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.svg?style=flat-square"/></a>
+
 </p>
 
 ---
