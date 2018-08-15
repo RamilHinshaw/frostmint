@@ -51,3 +51,9 @@ or:
     cd frostmint
     cp colors/frostmint ~/.vim/colors/
     cp autoload/* ~/.vim/autoload/
+    
+Then once installed, add this to your .vimrc
+
+    syntax enable
+    set background=dark
+    colorscheme frostmint
