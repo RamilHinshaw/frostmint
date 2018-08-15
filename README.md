@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/Frostmint%20github%20banner.png"/></p>
 
 <p align="center">  
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/ramilhinshaw/frostmint/releases/latest"><img 			src="https://img.shields.io/github/release/ramilhinshaw/frostmint.svg?style=flat-square"/></a></p>
+<img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/ramilhinshaw/frostmint/releases/latest"><img src="https://img.shields.io/github/release/ramilhinshaw/frostmint.svg?style=flat-square"/></a>
   <a href="https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-5E81AC.svg?style=flat-square"/></a>  
   <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.svg?style=flat-square"/></a>
 </p>
