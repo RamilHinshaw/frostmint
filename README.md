@@ -1,8 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/Frostmint%20github%20banner.png"/></p>
 
 <p align="center">
-  
-
+  <img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/ramilhinshaw/frostmint/releases/latest">
   
   <a href="https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-5E81AC.svg?style=flat-square"/></a>
   
