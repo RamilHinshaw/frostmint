@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/frostmint%20colors.png"/></p>
 
-## Example 
+<br>
 <p align="center">Example in various popular programming/markup langauges</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/RamilHinshaw/frostmint/master/assets/frostmist%20example.png"/></p>
