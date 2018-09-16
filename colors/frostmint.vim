@@ -15,7 +15,7 @@ let g:colors_name = "frostmint_modified"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#afd7d7 guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=152 ctermbg=234 cterm=NONE
+hi Normal guifg=#afd7d7 guibg=#2b2c33 guisp=#1c1c1c gui=NONE ctermfg=152 ctermbg=234 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi SpellRare -- no settings --
@@ -40,7 +40,7 @@ hi WildMenu guifg=#ffffff guibg=#6e6eaf guisp=#6e6eaf gui=NONE ctermfg=15 ctermb
 hi SpecialComment guifg=#d991eb guibg=NONE guisp=NONE gui=NONE ctermfg=176 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#f7ff87 guibg=NONE guisp=NONE gui=NONE ctermfg=228 ctermbg=NONE cterm=NONE
 hi Title guifg=#eb9999 guibg=NONE guisp=NONE gui=NONE ctermfg=174 ctermbg=NONE cterm=NONE
-hi Folded guifg=#f0dddd guibg=#70826f guisp=#70826f gui=NONE ctermfg=255 ctermbg=65 cterm=NONE
+hi Folded guifg=#f0dddd guibg=NONE guisp=NONE gui=NONE ctermfg=255 ctermbg=65 cterm=NONE
 hi PreCondit guifg=#4cabab guibg=NONE guisp=NONE gui=NONE ctermfg=73 ctermbg=NONE cterm=NONE
 hi Include guifg=#4cabab guibg=NONE guisp=NONE gui=NONE ctermfg=73 ctermbg=NONE cterm=NONE
 hi Float guifg=#ffb774 guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
@@ -56,7 +56,7 @@ hi Conditional guifg=#eb5757 guibg=NONE guisp=NONE gui=NONE ctermfg=203 ctermbg=
 hi StorageClass guifg=#ff8bff guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 hi Todo guifg=#ffef40 guibg=#6358a3 guisp=#6358a3 gui=NONE ctermfg=227 ctermbg=61 cterm=NONE
 hi Special guifg=#cc9fcc guibg=NONE guisp=NONE gui=NONE ctermfg=182 ctermbg=NONE cterm=NONE
-hi LineNr guifg=#ded7de guibg=#2e2e2e guisp=#2e2e2e gui=bold ctermfg=253 ctermbg=236 cterm=bold
+hi LineNr guifg=#ded7de guibg=#2e2e2e guisp=#2e2e2e gui=NONE ctermfg=253 ctermbg=236 cterm=NONE
 hi StatusLine guifg=#d4d4d4 guibg=#3e3e5e guisp=#3e3e5e gui=NONE ctermfg=188 ctermbg=60 cterm=NONE
 hi Label guifg=#ff8bff guibg=NONE guisp=NONE gui=NONE ctermfg=213 ctermbg=NONE cterm=NONE
 hi PMenuSel guifg=#ffffff guibg=#2e2e3f guisp=#2e2e3f gui=NONE ctermfg=15 ctermbg=237 cterm=NONE
