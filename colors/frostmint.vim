@@ -15,7 +15,7 @@ let g:colors_name = "frostmint_modified"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#afd7d7 guibg=#2b2c33 guisp=#1c1c1c gui=NONE ctermfg=152 ctermbg=234 cterm=NONE
+hi Normal guifg=#afd7d7 guibg=#363840 guisp=#1c1c1c gui=NONE ctermfg=152 ctermbg=234 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi SpellRare -- no settings --
